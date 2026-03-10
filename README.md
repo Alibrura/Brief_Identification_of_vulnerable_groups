@@ -107,7 +107,7 @@
 - Silhouette Score: ~0.252  
 - Calinski‑Harabasz Index: 25.89  
 - Davies‑Bouldin Index: 1.215  
-- Rand score (сравнение с другими моделями): 0.778  
+- Rand score (сравнение с baseline model): 0.778  
 
 ---
 
