@@ -152,9 +152,8 @@
 
 ## 👤 Автор  
 
-**ФИО** — студент курса Data Science Skillfactory  
-GitHub: [ваш профиль]  
-Контакт: [email или Telegram]  
+GitHub: Alibrura
+Контакт: sambostation@mail.ru
 
 ---
 
