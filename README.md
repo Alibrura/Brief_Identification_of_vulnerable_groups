@@ -5,7 +5,6 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org)
 [![Pandas](https://img.shields.io/badge/pandas-1.4%2B-green)](https://pandas.pydata.org)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-yellow)](https://scikit-learn.org)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 ---
 
@@ -156,12 +155,6 @@
 **ФИО** — студент курса Data Science Skillfactory  
 GitHub: [ваш профиль]  
 Контакт: [email или Telegram]  
-
----
-
-## 📄 Лицензия  
-
-Данный проект выполнен в учебных целях и распространяется под лицензией MIT. Использованные данные находятся в открытом доступе (Росстат, ведомственная статистика).  
 
 ---
 
