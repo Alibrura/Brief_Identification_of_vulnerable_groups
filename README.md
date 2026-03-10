@@ -158,6 +158,6 @@ GitHub: Alibrura
 ---
 
 **Более подробно с расчётами и визуализациями можно ознакомиться в Jupyter Notebook:**  
-- [Часть 1: Подготовка данных](GRAGUATION_PROJECT_P1.ipynb)  
+- [Часть 1: Подготовка данных](GRAGUATION_PROJECT_P1.IPYNB)  
 - [Часть 2: Анализ и моделирование](GRAGUATION_PROJECT_P2.ipynb)  
 - [Часть 3: Результаты и выводы](GRAGUATION_PROJECT_P3.ipynb)  
