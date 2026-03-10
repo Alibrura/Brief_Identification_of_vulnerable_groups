@@ -3,8 +3,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org)
-[![Pandas](https://img.shields.io/badge/pandas-1.4%2B-green)](https://pandas.pydata.org)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-yellow)](https://scikit-learn.org)
+[![Pandas](https://img.shields.io/badge/pandas-2.2.1-green)](https://pandas.pydata.org)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.6.1-yellow)](https://scikit-learn.org)
 
 ---
 
